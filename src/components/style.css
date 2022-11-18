@@ -29,3 +29,22 @@
 .link{
     font-weight: bold;
 }
+
+i{
+    cursor: pointer;
+}
+.toggle-box{
+    cursor: pointer;
+}
+.modal-footer{
+    background-color: rgb(241, 241, 241);
+}
+
+.list{
+    padding: 0;
+    list-style: none;
+}
+
+.listItem span{
+    margin: 5px;
+}
